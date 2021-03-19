@@ -16,7 +16,7 @@ function App() {
   var role = 0
   var leaveUrl = 'http://blackboard.usc.edu'
   var userName = 'React'
-  var userEmail = 'jasondsouza0530@gmail.com'
+  var userEmail = ''
   var passWord = 'ApM6q0'
 
   
