@@ -11,7 +11,7 @@ ZoomMtg.prepareJssdk();
 function App() {
   // setup your signature endpoint here: https://github.com/zoom/websdk-sample-signature-node.js
   var signatureEndpoint = 'http://localhost:4000'
-  var apiKey = 'y79B-jVQTySE6KkGoDc7JA'
+  var apiKey = ''
   var meetingNumber = '5027038715'
   var role = 0
   var leaveUrl = 'http://blackboard.usc.edu'
